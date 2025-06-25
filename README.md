@@ -57,7 +57,7 @@ python pyautomate_ai/automation/pyautogui_demo.py
 #### OCR Demo
 If Tesseract is not in your PATH, edit `ocr_demo.py` and set:
 ```python
-pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C\\Program Files\\Tesseract-OCR\\tesseract.exe'
 ```
 Then run:
 ```powershell
