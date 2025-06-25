@@ -1,0 +1,16 @@
+selenium
+playwright
+pyautogui
+opencv-python
+pytesseract
+fastapi
+scikit-learn
+pandas
+beautifulsoup4
+requests
+psycopg2-binary
+celery
+streamlit
+python-jose
+passlib[bcrypt]
+pillow 

@@ -1,0 +1,16 @@
+# Environments
+venv/
+.env
+/venv/
+.venv
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Python specific files
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/ 
